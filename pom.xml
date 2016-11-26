@@ -496,7 +496,7 @@
 		<profile>
 			<id>doclint-java8</id>
 			<activation>
-				<jdk>[1.8,)</jdk>
+				<jdk>1.8</jdk>
 			</activation>
 			<properties>
 				<javadoc.opts>-Xdoclint:all</javadoc.opts>
